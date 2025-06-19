@@ -1,4 +1,4 @@
-## Welcome to my Github Space!
+## Welcome to my GitHub Space!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/chiazhemin">
