@@ -1,7 +1,7 @@
 ## Welcome to my Github Space!
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/vn-phamviethung/](https://www.linkedin.com/in/chiazhemin)">
+  <a href="https://www.linkedin.com/in/chiazhemin">
    <img alt="Awesome" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
